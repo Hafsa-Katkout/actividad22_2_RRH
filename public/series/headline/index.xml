@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Headline on Walden</title>
+    <link>http://localhost:1313/series/headline/</link>
+    <description>Recent content in Headline on Walden</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Mon, 29 Jul 2024 14:26:19 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/series/headline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vienvenido a nuestro sitio de RRH</title>
+      <link>http://localhost:1313/blog/hugo-theme-walden/</link>
+      <pubDate>Mon, 29 Jul 2024 14:26:19 +0800</pubDate>
+      <guid>http://localhost:1313/blog/hugo-theme-walden/</guid>
+      <description>&lt;p&gt;Este sitio habla sobre &lt;strong&gt;Comida&lt;/strong&gt; según la perspectiva de &lt;strong&gt;Hafsa Katkout Aabil&lt;/strong&gt;. ¡Espero que te guste!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Waves</title>
+      <link>http://localhost:1313/blog/sample-4/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:50 +0800</pubDate>
+      <guid>http://localhost:1313/blog/sample-4/</guid>
+      <description>&lt;p&gt;hi&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Past Life Of The Earth</title>
+      <link>http://localhost:1313/blog/sample-3/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:44 +0800</pubDate>
+      <guid>http://localhost:1313/blog/sample-3/</guid>
+      <description>&lt;p&gt;mundo&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Sporting Spirit</title>
+      <link>http://localhost:1313/blog/sample-2/</link>
+      <pubDate>Sun, 28 Jul 2024 15:17:34 +0800</pubDate>
+      <guid>http://localhost:1313/blog/sample-2/</guid>
+      <description>&lt;p&gt;hola&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Puma At Large</title>
+      <link>http://localhost:1313/blog/sample-1/</link>
+      <pubDate>Sun, 28 Jul 2024 15:11:55 +0800</pubDate>
+      <guid>http://localhost:1313/blog/sample-1/</guid>
+      <description>&lt;p&gt;Hola&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
