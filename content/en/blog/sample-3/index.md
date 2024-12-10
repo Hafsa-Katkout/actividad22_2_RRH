@@ -17,6 +17,7 @@ La comida **española** es variada y sabrosa. Algunos platos típicos son:
 ![PAELLA](https://hips.hearstapps.com/hmg-prod/images/paella-valenciana-elle-gourmet-65cd30a24348c.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*)
 
 **"Tortilla española"**. Revuelto de patatas con cebolla.
+
 ![TORTILLA](https://e00-xlk-cooking-elmundo.uecdn.es/files/image_414_276/uploads/2023/02/28/63fe555318358.jpeg)
 
 **"Jamón ibérico"**. Una pata del cerdo que se cura para posteriormente consumirla.
