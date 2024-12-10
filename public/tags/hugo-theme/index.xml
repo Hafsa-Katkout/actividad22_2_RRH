@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Theme on Walden</title>
-    <link>http://localhost:1313/tags/hugo-theme/</link>
+    <link>https://genway.com.cn/tags/hugo-theme/</link>
     <description>Recent content in Hugo Theme on Walden</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>All rights reserved</copyright>
     <lastBuildDate>Mon, 29 Jul 2024 14:26:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hugo-theme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://genway.com.cn/tags/hugo-theme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sitio de RRH sobre Comida</title>
-      <link>http://localhost:1313/blog/hugo-theme-walden/</link>
+      <link>https://genway.com.cn/blog/hugo-theme-walden/</link>
       <pubDate>Mon, 29 Jul 2024 14:26:19 +0800</pubDate>
-      <guid>http://localhost:1313/blog/hugo-theme-walden/</guid>
+      <guid>https://genway.com.cn/blog/hugo-theme-walden/</guid>
       <description>&lt;p&gt;Sitio web de comida marroquí, española y pakistaní, creado por Hafsa utilizando el tema Walden en Hugo SSG.&lt;/p&gt;</description>
     </item>
   </channel>

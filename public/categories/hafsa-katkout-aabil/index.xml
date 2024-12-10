@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hafsa Katkout Aabil on Walden</title>
-    <link>http://localhost:1313/categories/hafsa-katkout-aabil/</link>
+    <link>https://genway.com.cn/categories/hafsa-katkout-aabil/</link>
     <description>Recent content in Hafsa Katkout Aabil on Walden</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>All rights reserved</copyright>
     <lastBuildDate>Sun, 28 Jul 2024 15:11:55 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/hafsa-katkout-aabil/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://genway.com.cn/categories/hafsa-katkout-aabil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comida</title>
-      <link>http://localhost:1313/blog/sample-1/</link>
+      <link>https://genway.com.cn/blog/sample-1/</link>
       <pubDate>Sun, 28 Jul 2024 15:11:55 +0800</pubDate>
-      <guid>http://localhost:1313/blog/sample-1/</guid>
+      <guid>https://genway.com.cn/blog/sample-1/</guid>
       <description>&lt;h1 id=&#34;comida&#34;&gt;Comida&lt;/h1&gt;&#xA;&lt;p&gt;La comida es esencial para nuestra salud y bienestar. Varía según la cultura, pero generalmente incluye una combinación de &lt;strong&gt;carbohidratos&lt;/strong&gt;, &lt;strong&gt;proteínas&lt;/strong&gt; y &lt;strong&gt;verduras&lt;/strong&gt;. Los platos pueden ser simples o elaborados, y siempre reflejan las tradiciones locales.&lt;/p&gt;</description>
     </item>
   </channel>
