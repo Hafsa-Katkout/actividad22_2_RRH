@@ -11,4 +11,4 @@ series = 'headline'
 
 # Comida de España
 
-La comida española es variada y sabrosa. Algunos platos típicos son **paella** (arroz con mariscos o carne), **tortilla española** (omelette de patatas) y **jamón ibérico**. Se acompañan con pan y vino.
+La comida **española** es variada y sabrosa. Algunos platos típicos son **"paella"** (arroz con mariscos o carne), **"tortilla española"** (omelette de patatas) y **"jamón ibérico"**. Se acompañan con pan y vino.
