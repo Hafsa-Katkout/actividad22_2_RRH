@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Headline on Walden</title>
-    <link>http://localhost:1313/series/headline/</link>
+    <link>http://localhost:35605/series/headline/</link>
     <description>Recent content in Headline on Walden</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>All rights reserved</copyright>
     <lastBuildDate>Mon, 29 Jul 2024 14:26:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/headline/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:35605/series/headline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sitio de RRH sobre Comida</title>
-      <link>http://localhost:1313/blog/hugo-theme-walden/</link>
+      <link>http://localhost:35605/blog/hugo-theme-walden/</link>
       <pubDate>Mon, 29 Jul 2024 14:26:19 +0800</pubDate>
-      <guid>http://localhost:1313/blog/hugo-theme-walden/</guid>
+      <guid>http://localhost:35605/blog/hugo-theme-walden/</guid>
       <description>&lt;p&gt;Sitio web de comida marroquí, española y pakistaní, creado por Hafsa utilizando el tema Walden en Hugo SSG.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Waves</title>
-      <link>http://localhost:1313/blog/sample-4/</link>
+      <title>Comida Marroquí</title>
+      <link>http://localhost:35605/blog/sample-4/</link>
       <pubDate>Sun, 28 Jul 2024 15:17:50 +0800</pubDate>
-      <guid>http://localhost:1313/blog/sample-4/</guid>
-      <description>&lt;p&gt;Waves are the children of the struggle between ocean and atmosphere, the ongoing signatures of infinity. Rays from the sun excite and energize the atmosphere of the earth, awakening it to flow, to movement, to rhythm, to life. The wind then speaks the message of the sun to the sea and the sea transmits it on through waves &amp;ndash; an ancient, exquisite, powerful message.&lt;/p&gt;</description>
+      <guid>http://localhost:35605/blog/sample-4/</guid>
+      <description>&lt;h1 id=&#34;comida-de-marruecos&#34;&gt;Comida de Marruecos&lt;/h1&gt;&#xA;&lt;p&gt;La comida marroquí es conocida por sus especias y sabores intensos. Platos típicos incluyen &lt;strong&gt;cuscús&lt;/strong&gt; (sémola con verduras y carne), &lt;strong&gt;tajín&lt;/strong&gt; (guiso de carne y verduras) y &lt;strong&gt;pastilla&lt;/strong&gt; (pastel relleno de carne). Se sirve con té de menta.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Past Life Of The Earth</title>
-      <link>http://localhost:1313/blog/sample-3/</link>
+      <title>Comida Española</title>
+      <link>http://localhost:35605/blog/sample-3/</link>
       <pubDate>Sun, 28 Jul 2024 15:17:44 +0800</pubDate>
-      <guid>http://localhost:1313/blog/sample-3/</guid>
-      <description>&lt;p&gt;It is animals and plants which lived in or near water whose remains are most likely to be preserved, for one of the necessary conditions of preservation is quick burial, and it is only in the seas and rivers, and sometimes lakes, where mud and sit have been continuously deposited, that bodies and the can be rapidly covered over and preserved.&lt;/p&gt;</description>
+      <guid>http://localhost:35605/blog/sample-3/</guid>
+      <description>&lt;h1 id=&#34;comida-de-españa&#34;&gt;Comida de España&lt;/h1&gt;&#xA;&lt;p&gt;La comida española es variada y sabrosa. Algunos platos típicos son &lt;strong&gt;paella&lt;/strong&gt; (arroz con mariscos o carne), &lt;strong&gt;tortilla española&lt;/strong&gt; (omelette de patatas) y &lt;strong&gt;jamón ibérico&lt;/strong&gt;. Se acompañan con pan y vino.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The Sporting Spirit</title>
-      <link>http://localhost:1313/blog/sample-2/</link>
+      <title>Comida Pakistaní</title>
+      <link>http://localhost:35605/blog/sample-2/</link>
       <pubDate>Sun, 28 Jul 2024 15:17:34 +0800</pubDate>
-      <guid>http://localhost:1313/blog/sample-2/</guid>
-      <description>&lt;p&gt;I am always amazed when I hear people saying that sport creates goodwill between the nations, and that if only the common peoples of the would could meet one another at football or cricket, they would have no inclination to meet on the hattlefield. Even if one didn&amp;rsquo;t know from concrete examples (the 1936 Olympic Games, for instance) that international sporting contests lead to orgies of hatred, one could deduce if from general principles.&lt;/p&gt;</description>
+      <guid>http://localhost:35605/blog/sample-2/</guid>
+      <description>&lt;h1 id=&#34;comida-de-pakistán&#34;&gt;Comida de Pakistán&lt;/h1&gt;&#xA;&lt;p&gt;La comida pakistaní es rica en especias y sabores. Platos populares incluyen &lt;strong&gt;biryani&lt;/strong&gt; (arroz con carne y especias), &lt;strong&gt;karahi&lt;/strong&gt; (guiso de carne) y &lt;strong&gt;samosas&lt;/strong&gt; (empanadas rellenas). Se acompaña con pan como &lt;strong&gt;naan&lt;/strong&gt; y &lt;strong&gt;roti&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Bastila Marroquí</title>
-      <link>http://localhost:1313/blog/sample-1/</link>
+      <title>Comida</title>
+      <link>http://localhost:35605/blog/sample-1/</link>
       <pubDate>Sun, 28 Jul 2024 15:11:55 +0800</pubDate>
-      <guid>http://localhost:1313/blog/sample-1/</guid>
-      <description>&lt;h2 id=&#34;bestila-de-pescado&#34;&gt;Bestila de Pescado&lt;/h2&gt;&#xA;&lt;p&gt;La &lt;strong&gt;Bestila de Pescado&lt;/strong&gt; es una variante deliciosa de la famosa Bestila marroquí, un plato tradicional que generalmente se prepara con pollo o paloma. En esta versión, el pescado se convierte en el ingrediente principal, ofreciendo una alternativa más ligera pero igualmente sabrosa. La Bestila de Pescado sigue combinando lo dulce y lo salado, lo que la convierte en una explosión de sabores, ideal para ocasiones especiales o celebraciones.&lt;/p&gt;</description>
+      <guid>http://localhost:35605/blog/sample-1/</guid>
+      <description>&lt;h1 id=&#34;comida&#34;&gt;Comida&lt;/h1&gt;&#xA;&lt;p&gt;La comida es esencial para nuestra salud y bienestar. Varía según la cultura, pero generalmente incluye una combinación de &lt;strong&gt;carbohidratos&lt;/strong&gt;, &lt;strong&gt;proteínas&lt;/strong&gt; y &lt;strong&gt;verduras&lt;/strong&gt;. Los platos pueden ser simples o elaborados, y siempre reflejan las tradiciones locales.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

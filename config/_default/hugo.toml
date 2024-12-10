@@ -1,7 +1,7 @@
 baseURL = 'https://genway.com.cn/'
 theme = 'hugo-theme-walden'
 
-defaultContentLanguage = 'es'
+defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
 [pagination]
