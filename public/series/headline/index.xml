@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Headline on Walden</title>
-    <link>http://localhost:35605/series/headline/</link>
+    <link>http://localhost:1313/series/headline/</link>
     <description>Recent content in Headline on Walden</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>All rights reserved</copyright>
     <lastBuildDate>Mon, 29 Jul 2024 14:26:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:35605/series/headline/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/headline/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sitio de RRH sobre Comida</title>
-      <link>http://localhost:35605/blog/hugo-theme-walden/</link>
+      <link>http://localhost:1313/blog/hugo-theme-walden/</link>
       <pubDate>Mon, 29 Jul 2024 14:26:19 +0800</pubDate>
-      <guid>http://localhost:35605/blog/hugo-theme-walden/</guid>
+      <guid>http://localhost:1313/blog/hugo-theme-walden/</guid>
       <description>&lt;p&gt;Sitio web de comida marroquí, española y pakistaní, creado por Hafsa utilizando el tema Walden en Hugo SSG.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comida Marroquí</title>
-      <link>http://localhost:35605/blog/sample-4/</link>
+      <link>http://localhost:1313/blog/sample-4/</link>
       <pubDate>Sun, 28 Jul 2024 15:17:50 +0800</pubDate>
-      <guid>http://localhost:35605/blog/sample-4/</guid>
+      <guid>http://localhost:1313/blog/sample-4/</guid>
       <description>&lt;h1 id=&#34;comida-de-marruecos&#34;&gt;Comida de Marruecos&lt;/h1&gt;&#xA;&lt;p&gt;La comida marroquí es conocida por sus especias y sabores intensos. Platos típicos incluyen &lt;strong&gt;cuscús&lt;/strong&gt; (sémola con verduras y carne), &lt;strong&gt;tajín&lt;/strong&gt; (guiso de carne y verduras) y &lt;strong&gt;pastilla&lt;/strong&gt; (pastel relleno de carne). Se sirve con té de menta.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comida Española</title>
-      <link>http://localhost:35605/blog/sample-3/</link>
+      <link>http://localhost:1313/blog/sample-3/</link>
       <pubDate>Sun, 28 Jul 2024 15:17:44 +0800</pubDate>
-      <guid>http://localhost:35605/blog/sample-3/</guid>
-      <description>&lt;h1 id=&#34;comida-de-españa&#34;&gt;Comida de España&lt;/h1&gt;&#xA;&lt;p&gt;La comida española es variada y sabrosa. Algunos platos típicos son &lt;strong&gt;paella&lt;/strong&gt; (arroz con mariscos o carne), &lt;strong&gt;tortilla española&lt;/strong&gt; (omelette de patatas) y &lt;strong&gt;jamón ibérico&lt;/strong&gt;. Se acompañan con pan y vino.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/sample-3/</guid>
+      <description>&lt;h1 id=&#34;comida-de-españa&#34;&gt;Comida de España&lt;/h1&gt;&#xA;&lt;p&gt;La comida &lt;strong&gt;española&lt;/strong&gt; es variada y sabrosa. Algunos platos típicos son &lt;strong&gt;&amp;ldquo;paella&amp;rdquo;&lt;/strong&gt; (arroz con mariscos o carne), &lt;strong&gt;&amp;ldquo;tortilla española&amp;rdquo;&lt;/strong&gt; (omelette de patatas) y &lt;strong&gt;&amp;ldquo;jamón ibérico&amp;rdquo;&lt;/strong&gt;. Se acompañan con pan y vino.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comida Pakistaní</title>
-      <link>http://localhost:35605/blog/sample-2/</link>
+      <link>http://localhost:1313/blog/sample-2/</link>
       <pubDate>Sun, 28 Jul 2024 15:17:34 +0800</pubDate>
-      <guid>http://localhost:35605/blog/sample-2/</guid>
-      <description>&lt;h1 id=&#34;comida-de-pakistán&#34;&gt;Comida de Pakistán&lt;/h1&gt;&#xA;&lt;p&gt;La comida pakistaní es rica en especias y sabores. Platos populares incluyen &lt;strong&gt;biryani&lt;/strong&gt; (arroz con carne y especias), &lt;strong&gt;karahi&lt;/strong&gt; (guiso de carne) y &lt;strong&gt;samosas&lt;/strong&gt; (empanadas rellenas). Se acompaña con pan como &lt;strong&gt;naan&lt;/strong&gt; y &lt;strong&gt;roti&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/sample-2/</guid>
+      <description>&lt;h1 id=&#34;-comida-pakistaní-una-mezcla-de-sabores-y-tradiciones&#34;&gt;🍴 Comida Pakistaní: Una Mezcla de Sabores y Tradiciones&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Platos de la Cocina Pakistaní&#34; src=&#34;https://pakistanatlas.com/wp-content/uploads/2020/10/feature-image-Pakistani-Traditional-Food-Map-Pakistan-Atlas-by-Assam-Artist-HD.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;&#xA;&lt;p&gt;La &lt;strong&gt;cocina pakistaní&lt;/strong&gt; es una rica combinación de influencias culturales, que mezcla las tradiciones culinarias de Asia del Sur, Asia Central y Medio Oriente. Con sabores intensos y una gran variedad de especias, los platos pakistaníes destacan por su sabor único y su fuerte arraigo en la cultura y hospitalidad del país.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;características-principales&#34;&gt;Características Principales&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Uso de Especias&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comida</title>
-      <link>http://localhost:35605/blog/sample-1/</link>
+      <link>http://localhost:1313/blog/sample-1/</link>
       <pubDate>Sun, 28 Jul 2024 15:11:55 +0800</pubDate>
-      <guid>http://localhost:35605/blog/sample-1/</guid>
+      <guid>http://localhost:1313/blog/sample-1/</guid>
       <description>&lt;h1 id=&#34;comida&#34;&gt;Comida&lt;/h1&gt;&#xA;&lt;p&gt;La comida es esencial para nuestra salud y bienestar. Varía según la cultura, pero generalmente incluye una combinación de &lt;strong&gt;carbohidratos&lt;/strong&gt;, &lt;strong&gt;proteínas&lt;/strong&gt; y &lt;strong&gt;verduras&lt;/strong&gt;. Los platos pueden ser simples o elaborados, y siempre reflejan las tradiciones locales.&lt;/p&gt;</description>
     </item>
   </channel>
